@@ -13,6 +13,7 @@ I build machine learning models, RAG assistants and data pipelines, and I ship t
 | --- | --- | --- |
 | [**Phish360**](https://github.com/saif29057/phish360) | Multimodal phishing detection (URL, HTML, screenshot, technical features) with a distributed Spark pipeline and late/attention fusion — best F1 0.934 | PySpark, PyTorch, DistilBERT, ResNet18, XGBoost, SHAP |
 | [**Mangaka**](https://github.com/saif29057/mangaka) | Photo → anime style transfer (Hayao, Shinkai) with CycleGAN / AnimeGAN, evaluated with FID and LPIPS, served with ONNX Runtime | PyTorch, ONNX, FastAPI, React, DVC, MLflow, Docker, GitHub Actions |
+| [**FlyPrice**](https://github.com/saif29057/flight-price-prediction) | Flight price prediction (XGBoost, R² 0.89) compared with MLflow, served by FastAPI, with cheapest-flight recommendations and a RAG travel assistant | XGBoost, scikit-learn, MLflow, FastAPI, FAISS, React/TS, Docker |
 | [**Invoice RAG Assistant**](https://github.com/saif29057/invoice-rag-assistant) | Ask questions about 1,000+ PDF invoices: LLM-generated metadata filters + semantic search | Qdrant, Groq LLM, Streamlit |
 | [**Smart Firma**](https://github.com/saif29057/smart-firmaa) | Smart agriculture platform: crop recommendation, plant-disease detection, weather, chatbot | Django REST, scikit-learn, TensorFlow, React/TS |
 | [**SafeSpot**](https://github.com/saif29057/safespot) | Road safety analytics: ETL from weather and routing APIs, risk scoring, route optimisation | Python ETL, PostgreSQL, Django, React |
